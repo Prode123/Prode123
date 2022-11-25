@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prode123
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java related technologies
-- 💞️ I’m looking to collaborate on interests that can be developed and girlfriends
+- 💞️ I’m looking to 
 - 📫 You can give me the email: 1002411753@qq.com send emails
 
 <!---
